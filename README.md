@@ -12,7 +12,7 @@ Farmassist is a smart farming app for IoT and AI-powered plant disease detection
 
 ### Download Android APK
 
-You can download the latest version of the Android APK [here](https://github.com/farmassistX/farmassist/releases/tag/v1.0.21).
+Dear Foss sir , you can download the latest version of the Android APK [here](https://drive.google.com/drive/folders/1E_sB0IhInWY3Pe0_iLpuNAlQHEN2KX71?usp=sharing).
 
 ## Architecture
 
